@@ -40,4 +40,5 @@ python detect_webcam.py
 ```
 
 # References
-Pyimagesearch.com
+- Pyimagesearch.com
+- Kaggle courses on Intro to Deep learning
